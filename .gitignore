@@ -60,7 +60,7 @@
 !/.config/**
 !/.gitignore_global
 !/.gitconfig_shared
-
+!/.jupyter
 !/README.md
 !/LICENSE
 !.gitignore
